@@ -1,2 +1,3 @@
 # My-ML-Projects
-Experimentation with Machine Learning
+From Experimentation with Machine Learning
+To Applications to tackle relevant problems.
